@@ -1,12 +1,12 @@
 {
-    "inicial": "s84",
+    "inicial": 1,
     "finales": [
-        "s85"
+        2
     ],
     "transiciones": {
-        "s84": {
+        "1": {
             "a": [
-                "s85"
+                2
             ]
         }
     }
